@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.8.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.12.0-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/java-client-7.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/selenium-server-standalone-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/libs/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.12.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.12.0-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
