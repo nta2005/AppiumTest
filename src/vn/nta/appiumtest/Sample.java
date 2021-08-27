@@ -18,7 +18,7 @@ public class Sample {
         dc = new DesiredCapabilities();
         dc.setCapability("deviceName", "emulator-5554");
         dc.setCapability("platformName", "Android");
-        dc.setCapability("appPackage", "com.coloros.calculator");
+        dc.setCapability("appPackage", "com.android.calculator2");
         dc.setCapability("appActivity", "com.android.calculator2.Calculator");
 
         // Khởi tạo các đối tượng driver để thực thi kiểm thử
@@ -36,8 +36,8 @@ public class Sample {
         Assert.assertEquals(driver.findElementById("com.android.calculator2:id/result").getText(), "11");
 
         // Kết thúc kiểm thử bằng việc đóng ứng dụng
-        System.out.println("Testing done, exiting app...");
-        driver.quit();
+        System.out.println("Testing done");
+        //driver.quit();
     }
 
 }
